@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>im/a.png</file>
+        <file>im/b.jpg</file>
+        <file>im/c.png</file>
+        <file>im/d.png</file>
+        <file>im/e.png</file>
+        <file>im/f.jpg</file>
+        <file>im/g.png</file>
+        <file>im/h.png</file>
+        <file>im/bawang1.png</file>
+        <file>im/aoye1.png</file>
+        <file>im/daima1.png</file>
+        <file>im/zhifa1.png</file>
+    </qresource>
+</RCC>
